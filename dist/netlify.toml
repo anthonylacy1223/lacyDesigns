@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 #https://stackoverflow.com/questions/58065603/netlify-renders-404-on-page-refresh-using-react-and-react-router 
 [[redirects]]
   from = "/*"
   to = "/index.html"
+=======
+#https://stackoverflow.com/questions/58065603/netlify-renders-404-on-page-refresh-using-react-and-react-router 
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+>>>>>>> 98acd97678e6f03562dbc17dcfcba91a5decc593
   status = 200
