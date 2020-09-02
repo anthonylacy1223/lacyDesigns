@@ -1,32 +1,59 @@
-<<<<<<< HEAD
-﻿body
-{
-}
-header{
-    background-color:lightgray;
-    position:fixed;
-    top:0;
-    width:100%;
-}
+
+    ﻿body
+    {
+    }
+    header{
+        background-color:lightgray;
+        position:fixed;
+        top:0;
+        left:0;
+        width:100%;
+    }
 footer {
     background-color: pink;
     position: fixed;
     bottom: 0;
     width: 100%;
-=======
-﻿body
-{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    text-align:center;
 }
-header{
-    background-color:lightgray;
-    position:fixed;
-    top:0;
-    width:100%;
-}
-footer {
-    background-color: pink;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
->>>>>>> 98acd97678e6f03562dbc17dcfcba91a5decc593
-}
+    #brand{
+
+        padding-left:1rem;
+        color:floralwhite;
+   
+    }
+
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333333;
+  
+    }
+
+    nav li {
+        float: left;
+    }
+    #nav{
+        float:right;
+
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+        
+    }
+
+        li a:hover {
+            background-color: #111111;
+        }
+    #main{
+        padding-top: 1rem;
+    }
