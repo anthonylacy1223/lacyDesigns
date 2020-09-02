@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-this is a test
-=======
-test
->>>>>>> 57d6c654375bc0ccc11a11d10adf467c17360d1c
-blah
-
